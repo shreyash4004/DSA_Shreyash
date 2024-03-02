@@ -6,6 +6,7 @@ public class Factorial {
     public static void main(String[] args) {
         int no=5;
         int ans=fact(no);
+        //ok now
         System.out.println(ans);
     }
 
