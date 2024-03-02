@@ -10,7 +10,6 @@ public class Factorial {
     }
 
 
-
     public  static  int fact(int no){
         if(no==0){
             return 1;
