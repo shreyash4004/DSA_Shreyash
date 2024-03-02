@@ -12,7 +12,7 @@ public class SumOfNumbers {
         if(no==1){
             return 1;
         }
-        int call=sum(no-1); 
+        int call=sum(no-1);
         int sum=no+call;
         return sum;
     }
