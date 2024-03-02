@@ -14,3 +14,4 @@ public class PrintNumbersIncreasing {
         System.out.println(no);
     }
 }
+
